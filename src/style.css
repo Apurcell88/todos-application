@@ -65,3 +65,7 @@ span {
     margin-left: 2.7rem;
     margin-top: 0.8rem;
 }
+
+.hide-display {
+    display: none;
+}
