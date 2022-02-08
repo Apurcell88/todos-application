@@ -1,0 +1,1 @@
+A todo app that allows the user to create, edit, and delete todos. Structured use of modules, classes/factory functions, and webpack are being used.
